@@ -115,7 +115,7 @@ Questo sito soddisfa i requisiti di Stripe includendo:
 ## Supporto
 
 Per domande o problemi relativi a questo sito, contattare:
-- Email: support@ade-system.com
+- Email: tos.matteo@gmail.com
 - Telefono: +39 340 786 1140
 
 ---
